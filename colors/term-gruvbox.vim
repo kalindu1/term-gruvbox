@@ -66,8 +66,8 @@ hi LineNr          ctermbg=NONE ctermfg=8      guibg=#262626  guifg=#919187  cte
 " line number
 hi CursorLineNr    ctermbg=NONE ctermfg=243    guibg=NONE     guifg=#808080  cterm=NONE      gui=NONE
 
-hi Pmenu           ctermbg=233  ctermfg=137    guibg=#171717  guifg=#E8A973  cterm=none      gui=NONE
-hi PmenuSel        ctermbg=234  ctermfg=196    guibg=#252525  guifg=#FF2A1F  cterm=bold      gui=bold
+hi Pmenu           ctermbg=233  ctermfg=137    guibg=#4E4E4E  guifg=#FFD9B4  cterm=none      gui=NONE
+hi PmenuSel        ctermbg=234  ctermfg=196    guibg=#171717  guifg=#262626  cterm=bold      gui=bold
 hi PmenuSbar       ctermbg=233  ctermfg=000    guibg=#333233  guifg=#000000  cterm=NONE      gui=none
 hi PmenuThumb      ctermbg=235  ctermfg=137    guibg=NONE     guifg=#171717  cterm=none      gui=none
 
