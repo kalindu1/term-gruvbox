@@ -8,7 +8,7 @@
 <h3>Set the colorscheme:</h3>
 
 ```colorscheme term-gruvbox```
-<h3>This color scheme is made for gvim</h3>
+<h3>This color scheme is made only for gvim</h3>
 
 <h3>Pictures:</h3>
 <img src="gruvbox.PNG">
